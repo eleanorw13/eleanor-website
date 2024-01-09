@@ -1,0 +1,142 @@
+/* Color Palette
+#3399ff -blue
+#b2b266 -light green
+#804000 -brown
+*/
+
+/* Global styles
+-------------------------*/
+/* apply a natural box layout model to all elements, but allowing components to change */
+
+
+html {
+    box-sizing: border-box;
+  }
+  *, *:before, *:after {
+    box-sizing: inherit;
+  }
+  
+  body{
+   background-color: #CCCCCC;
+   font-family: 'Arya', sans-serif;
+   margin: 0;
+  
+  }
+  h2{
+      font-family: 'Cedarville Cursive', cursive;
+      color:#804000;
+      font-size: 30px;
+  }
+  
+  a{
+      color:#804000;
+      text-decoration: none;
+  }
+  a:hover{
+      text-decoration: none;
+  }
+  
+  .menu {
+    text-align:center;
+    position: fixed;
+    background-color:#b2b266;
+    top: 0;
+    width: 100%;
+    
+  }
+  
+  .menu a{
+    display:inline-block;
+    padding: 15px 20px;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: 700;
+  }
+  
+  /*Education*/
+  .education{
+      background-color:gray;
+      border-radius:5px;
+      
+    
+  }
+  p + h3 {
+    margin-top: 30px;
+  }
+  
+  
+  /*Work Experience */
+  
+  .work{
+      background-color: #b2b266;
+      line-height: 1;
+       
+  }
+  h3 ~ p {
+    margin: 0;
+  }
+  .job-description {
+    margin-bottom: 25px;
+  }
+  .job-description p:first-of-type {
+    margin-top: 0;
+  }
+  
+  .content-wrap{
+      max-width:950px;
+      margin: 0 auto;
+      padding: 60px 60px;
+      overflow: hidden;
+      
+  }
+  .col-narrow{
+      width:30%; 
+      float:left;
+      min-height: 175px;
+  }
+  .col-wide{
+      width:70%;
+      float:left;
+      padding-left: 20px;
+      min-height: 175px;    
+  }
+  
+  .uppercase {
+    text-transform: uppercase;
+  }
+  
+  
+  header{
+      
+      background-color:beige;
+      padding-top: 50px;
+  }
+
+  header h1, header h2{
+      font-size: 40px;
+      font-family: 'Cedarville Cursive', cursive;
+      color:#804000;
+      margin:0;
+      
+  }
+  
+  .profile-img{
+      border-radius: 50%;
+  }
+  
+  footer{
+      background-color: azure;
+      text-align: center;
+      
+  }
+  .footertext{
+      font-family: 'Cedarville Cursive', cursive;
+  }
+  .contact-info a{
+      /* background: #000000;*/
+      padding:20px;
+      display:inline-block;
+      border-radius: 10px;
+  }
+  
+  
