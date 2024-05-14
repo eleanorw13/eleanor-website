@@ -1,81 +1,121 @@
-<!doctype html>
-<html lang="en"> 
-<header>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="mystyle.css">
-<title>Eleanor Wai Website Portfolio</title>
- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-  <nav class="menu">
-    <a href="#about">About</a>
-    <a href="#work">Work Experience</a>
-    <a href="#education">Education</a>
-    <a href="#contact">Contact</a>
-  </nav>
-
-  <div id="about" class="content-wrap">
-    <img class="profile-img col-narrow" src="https://picsum.photos/150/150" alt="Eleanor Wai">
-    <div class="col-wide">
-      <h1>Eleanor Wai</h1>
-      <h2>Web Programmer Analyst</h2>
-      <p></p>
-    </div>
-  </div>
-</header>
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Theme Made By www.w3schools.com - No Copyright -->
+  <title>Eleanor Wai Simply Me</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+  <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
+  <style>
+  body {
+    font: 20px Montserrat, sans-serif;
+    line-height: 1.8;
+    color: #f5f6f7;
+  }
+  p {font-size: 16px;}
+  .margin {margin-bottom: 45px;}
+  .bg-1 { 
+    background-color: #ee82ee; /* Green */
+    color: #ffffff;
+  }
+  .bg-2 { 
+    background-color: #474e5d; /* Dark Blue */
+    color: #ffffff;
+  }
+  .bg-3 { 
+    background-color: #ffffff; /* White */
+    color: #555555;
+  }
+  .bg-4 { 
+    background-color: #2f2f2f; /* Black Gray */
+    color: #fff;
+  }
+  .container-fluid {
+    padding-top: 70px;
+    padding-bottom: 70px;
+  }
+  .navbar {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 12px;
+    letter-spacing: 5px;
+  }
+  .navbar-nav  li a:hover {
+    color: #1abc9c !important;
+  }
+  </style>
+</head>
 <body>
 
-  <main>
-    <!-- // Work Experience -->
-    <section id="work" class="work">
-      <div class="content-wrap">
-        <h2>Work Experience</h2>
-        <!-- Job 1 Details -->
-        <div class="col-narrow">
-          <h3>Web Developer</h3>
-          <p class="uppercase"></p>
-          <p>January 2017 - Present</p>
-        </div>
-        <div class="col-wide job-description">
-          <p>Provides various front-end related services ranging from development work, consultations, and training.</p>
-
-        </div>
-
-        <!-- // Education -->
-        <section id="education" class="education">
-          <div class="content-wrap">
-            <h2>Education</h2>
-
-            <!-- School 1 details. -->
-            <h3>Mercy College - Dobbs Ferry, NY</h3>
-            <p>MS</p>
-            <p>Web Strategy and Design</p>
-
-            <!-- School 2 details. -->
-            <h3>Hofstra University - Hempstead, NY</h3>
-            <p>BS</p>
-            <p>Computer Science</p>
-          </div>
-        </section>
-  </main>
-
-  </section>
-
-  <!-- // Footer & contact info -->
-  <footer id="contact">
-    <div class="content-wrap">
-      <h2 class="footertext">Let's Keep in Touch!</h2>
-
-      <div id="like_button_container"></div>
-
-      <!-- Social media links. Add or remove any networks. -->
-      <div class="contact-info">
-        <a href="https://twitter.com/eleanorwai">Twitter</a>
-      </div>
-      <p><a href="http://codepen.io/eleanorw13" target="_blank">Eleanor Wai Codepen</a>.</p>
-      <p>Copyright 2023 by Eleanor Wai</p>
+<!-- Navbar -->
+<nav class="navbar navbar-default">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>                        
+      </button>
+      <a class="navbar-brand" href="#">Eleanor Wai</a>
     </div>
-  </footer>
-<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <div class="collapse navbar-collapse" id="myNavbar">
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="https://www.linkedin.com/in/eleanorwai/" target="_new">WHO</a></li>
+        <li><a href="https://github.com/eleanorw13" target="_new">WHAT</a></li>
+        <li><a href="#">WHERE</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+
+<!-- First Container -->
+<div class="container-fluid bg-1 text-center">
+  <h3 class="margin">Who Am I?</h3>
+  <img class="profile-img col-narrow" src="https://picsum.photos/150/150" alt="Eleanor Wai">
+  <h3>My Name is Eleanor</h3>
+</div>
+
+<!-- Second Container -->
+<div class="container-fluid bg-2 text-center">
+  <h3 class="margin">What Am I?</h3>
+  <p>Professional experience as IT Support at Verizon, I support the IT infrastructure, networking, security, and data needs of the company's employees, using various technologies such as Windows 10, SQL Database, and Imaging Software. I have over three years of experience in this role, and I have knowledge and work experience using AWS Cloud, HTML5, CSS, JavaScript, XML and JSON, which I use to create and maintain dynamic and interactive web applications. </p>
+  <p>Before joining Verizon, I worked as a System Analyst at McGraw Hill, where I contributed to the development and enhancement of the Create Software and Vitasource E-Book projects. I gained valuable skills in NoSQL database and XML programming, as well as Adobe Acrobat Pro and Github. I also have a background in higher education software and IT Support working at Ellucian Company, also I served as an Adjunct Professor at several colleges, teaching courses on website design, management information systems, and computer applications.</p>
+  <a href="#" class="btn btn-default btn-lg">
+    <span class="glyphicon glyphicon-search"></span> Search
+  </a>
+</div>
+
+<!-- Third Container (Grid) -->
+<div class="container-fluid bg-3 text-center">    
+  <h3 class="margin">Where To Find Me?</h3><br>
+  <div class="row">
+    <div class="col-sm-4">
+      <p>Linkedin</p>
+      <a href="https://www.linkedin.com/in/eleanorwai/" target="_new"><img src="https://picsum.photos/150/150" class="img-responsive margin" style="width:100%" alt="Image"></a>
+     
+    </div>
+    <div class="col-sm-4"> 
+      <p>Tumblr</p>
+      <img src="https://picsum.photos/150/150" class="img-responsive margin" style="width:100%" alt="Image">
+    </div>
+    <div class="col-sm-4"> 
+      <p>Twitter </p>
+      <a href="https://twitter.com/eleanorwai" target="_new"><img src="https://picsum.photos/150/150" class="img-responsive margin" style="width:100%" alt="Image"></a>
+    </div>
+   
+  </div>
+</div>
+
+<!-- Footer -->
+<footer class="container-fluid bg-4 text-center">
+  <p>Made By Eleanor</p> 
+</footer>
 
 </body>
 </html>
