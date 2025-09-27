@@ -1,0 +1,28 @@
+## Featured Projects
+
+###  Banner–Drupal Integration Portal
+**Tech Stack:** Drupal 9, REST APIs, PL/SQL, Oracle DB  
+**Summary:** Integrated Ellucian Banner with Drupal to create a student self-service portal. Developed custom modules to securely fetch and display academic records, registration status, and financial aid data.
+
+- Built RESTful endpoints to expose Banner data
+- Created role-based views for students, faculty, and staff
+- Reduced support tickets by 40% through self-service access
+
+---
+
+### Dynamic Course Catalog
+**Tech Stack:** Drupal Views, Panels, Custom Content Types  
+**Summary:** Designed a searchable, filterable course catalog for academic departments. Enabled real-time updates from Banner and improved UX for prospective students.
+
+- Automated course sync via PL/SQL scripts
+- Implemented taxonomy-based filtering
+- Increased site traffic by 25% post-launch
+
+---
+
+### Automated Form Workflows
+**Tech Stack:** Oracle Forms, PL/SQL, Drupal Webforms  
+**Summary:** Migrated manual admissions and financial aid forms into a hybrid system using Oracle Forms and Drupal Webforms. Enabled conditional logic and backend validation.
+
+- Reduced processing time by 60%
+- Improved data accuracy and compliance
