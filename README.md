@@ -1,3 +1,21 @@
+## 🏷️ Badges
+
+![GitHub followers](https://img.shields.io/github/followers/eleanorwai?style=social)
+![GitHub stars](https://img.shields.io/github/stars/eleanorwai/eleanor-portfolio?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/eleanorwai/eleanor-portfolio)
+![Repo Size](https://img.shields.io/github/repo-size/eleanorwai/eleanor-portfolio)
+![Languages](https://img.shields.io/github/languages/top/eleanorwai/eleanor-portfolio)
+![Website](https://img.shields.io/website?url=https%3A%2F%2Feleanorwai.github.io%2Feleanor-portfolio)
+
+## 🧰 Tech Stack
+
+![Drupal](https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
 # Eleanor Wai | Drupal & ERP Developer
 
 Welcome to my technical portfolio. I specialize in Drupal development and ERP integration, with a strong focus on higher education systems. My work bridges the gap between user experience and backend efficiency, leveraging Ellucian Banner, Oracle Forms, and PL/SQL to deliver scalable, mission-driven solutions.
