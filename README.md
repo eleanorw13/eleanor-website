@@ -16,7 +16,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-# Eleanor Wai | Drupal & ERP Developer
+# Eleanor Wai | Drupal & ERP Developer | Programmer Analyst
 
 Welcome to my technical portfolio. I specialize in Drupal development and ERP integration, with a strong focus on higher education systems. My work bridges the gap between user experience and backend efficiency, leveraging Ellucian Banner, Oracle Forms, and PL/SQL to deliver scalable, mission-driven solutions.
 
