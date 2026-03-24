@@ -1,4 +1,4 @@
-## 🏷️ Badges
+##Badges
 
 ![GitHub followers](https://img.shields.io/github/followers/eleanorwai?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/eleanorwai/eleanor-portfolio?style=social)
@@ -7,7 +7,7 @@
 ![Languages](https://img.shields.io/github/languages/top/eleanorwai/eleanor-portfolio)
 ![Website](https://img.shields.io/website?url=https%3A%2F%2Feleanorwai.github.io%2Feleanor-portfolio)
 
-## 🧰 Tech Stack
+## Tech Stack
 
 ![Drupal](https://img.shields.io/badge/Drupal-0077C0?style=for-the-badge&logo=drupal&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -20,7 +20,7 @@
 
 Welcome to my technical portfolio. I specialize in Drupal development and ERP integration, with a strong focus on higher education systems. My work bridges the gap between user experience and backend efficiency, leveraging Ellucian Banner, Oracle Forms, and PL/SQL to deliver scalable, mission-driven solutions.
 
-## 🔍 Explore My Work
+## My Work
 
 - [Home](index.md) – Overview of my developer identity and career focus
 - [Projects](projects.md) – Featured ERP and Drupal development projects
@@ -28,16 +28,16 @@ Welcome to my technical portfolio. I specialize in Drupal development and ERP in
 - [About Me](about.md) – Education, work history, and personal journey
 - [Contact](contact.md) – How to reach me and connect professionally
 
-## 📌 Highlights
+## Highlights
 
 - Integrated Ellucian Banner with Drupal for student self-service portals
 - Automated Oracle Forms workflows for admissions and financial aid
 - Customized course catalogs and role-based access systems
 - Veteran, educator, and lifelong learner with a strategic mindset
 
-## 📫 Let’s Connect
+## Let’s Connect
 
-I’m actively seeking Banner Developer and ERP roles in higher education. If you’re looking for someone who blends technical rigor with collaborative impact, I’d love to hear from you.
+I’m actively seeking Software Programmer/Developer roles. If you’re looking for someone who blends technical rigor with collaborative impact, I’d love to hear from you.
 
 - 📧 Email: eleanor.wai@example.com  
 - 🔗 LinkedIn: [linkedin.com/in/eleanorwai](https://www.linkedin.com/in/eleanorwai)  
